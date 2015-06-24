@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.wicket:wicket-util:6.16.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.wicket/wicket-util/6.16.0/918a13a43683388fe1b5df6820dbe45b3c8d6cfe/wicket-util-6.16.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.wicket/wicket-util/6.16.0/d76018a0f319b28e5693574548aa0dca4ccab5c2/wicket-util-6.16.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
